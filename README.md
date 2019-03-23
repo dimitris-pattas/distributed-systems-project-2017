@@ -1,2 +1,2 @@
-# distribute-systems-project-2017
-distribute-systems
+# distributed-systems-project-2017
+distributed-systems
